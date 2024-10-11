@@ -1,0 +1,688 @@
+<!DOCTYPE html>
+<html lang="de">
+
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+    <meta name="description" content="Professioneller Fliesenleger für hochwertige Fliesenarbeiten im Innen- und Außenbereich. Individuelle Beratung, präzise Verlegung und erstklassige Materialien. Kontaktieren Sie uns für Badezimmer, Küchen, Terrassen und mehr." />
+    <meta name="author" content="Marco Schröcker" />
+    <title>Schröcker Fliesenleger</title>
+    <!-- Favicon-->
+    <link rel="icon" type="image/x-icon" href="assets/favicon.ico" />
+    <!-- Font Awesome icons (free version)-->
+    <script src="https://kit.fontawesome.com/b0e031fb7a.js" crossorigin="anonymous"></script>
+    <!-- Google fonts-->
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css" />
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css" />
+    <!-- Core theme CSS (includes Bootstrap)-->
+    <link href="css/styles.css" rel="stylesheet" />
+</head>
+
+<body id="page-top">
+    <div class="preloader">
+        <img class="curve-svg" src="assets/trowel.svg"/>
+        <div class="falling-svgs">
+            <img class="falling-svg svg1" src="assets/tile1.svg"/>
+            <img class="falling-svg svg2" src="assets/tile2.svg"/> 
+            <img class="falling-svg svg3" src="assets/tile3.svg"/>       </div>
+      </div>
+    <!-- Navigation-->
+    <nav class="navbar navbar-expand-lg navbar-dark fixed-top" id="mainNav">
+        <div class="container">
+            <a class="navbar-brand" href="#page-top"><img src="assets/img/logo.png" alt="..." /></a>
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarResponsive" aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
+                <!-- ☰ -->
+                <i class="fas fa-bars ms-1"></i>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarResponsive">
+                <ul class="navbar-nav text-uppercase ms-auto py-4 py-lg-0">
+                    <li class="nav-item"><a class="nav-link" href="#services">Leistungen</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#portfolio">Portfolio</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#about">Über uns</a></li>
+                    <li class="nav-item"><a class="nav-link" href="#contact">Kontakt</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <!-- Masthead-->
+    <header class="masthead">
+        <div class="container">
+            <br>
+            <br>
+            <br>
+            <div class="masthead-heading text-uppercase">Marco Schröcker</div>
+            <div class="masthead-subheading">Der Fliesenprofi</div>
+            <a class="btn btn-primary btn-xl text-uppercase" href="#services">Mehr</a>
+        </div>
+    </header>
+    <!-- Services-->
+    <section class="page-section" id="services">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Leistungen</h2><br><br>
+                <!-- <h3 class="section-subheading text-muted">Lorem ipsum dolor sit amet consectetur.</h3> -->
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-solid fa-people-arrows fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="my-3">Beratung</h4>
+                    <p class="text-muted">
+                        Bei mir steht eine persönliche Beratung selbstverständlich im Vordergrund.<br>
+                        Von Anfang bis Ende des Projekts stehe ich Ihnen beratend zur Seite und beziehe Sie mit ein.<br>
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-solid fa-ruler fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="my-3">Planung</h4>
+                    <p class="text-muted">
+                        Gerne zeige ich Ihnen die unterschiedlichsten Materialien und neuesten Techniken,
+                        damit Sie sich ein genaues Bild des Endergebnisses machen können.<br>
+                        Gerne stelle ich Ihnen vorab Ideen und Möglichkeiten vor, die auf Ihr Projekt
+                        zugeschnitten sind.<br>
+                    </p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fas fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fas fa-regular fa-trowel fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="my-3">Ausführung</h4>
+                    <p class="text-muted">
+                        Qualität und Zufriedenheit ist mir das wichtigste. <br>
+                        Durch Jahrelange handwerkliche Erfahrungen möchte ich Ihre Vorstellungen
+                        bestmöglich in die Tat umsetzen. <br>
+                        Setzen Sie Ihren Wünschen keine Grenzen.<br>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Portfolio Grid-->
+    <section class="page-section bg-light" id="portfolio">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Portfolio</h2>
+                <h3 class="section-subheading text-muted">Hier finden Sie einige meiner Arbeiten:</h3>
+            </div>
+            <div class="row">
+                <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 1-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal1">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/badezimmer.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Badezimmer</div>
+                            <div class="portfolio-caption-subheading text-muted"> Stilvoll und Modern</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 2-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal2">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/flur.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Flur</div>
+                            <div class="portfolio-caption-subheading text-muted">Elegante Eingangsbereiche</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-4">
+                    <!-- Portfolio item 3-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal3">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/balkon.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Balkon</div>
+                            <div class="portfolio-caption-subheading text-muted">Witterungsbeständige Fliesen</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-4 mb-lg-0">
+                    <!-- Portfolio item 4-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal4">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/treppe.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Treppe</div>
+                            <div class="portfolio-caption-subheading text-muted">Sicher und rutschfest</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6 mb-4 mb-sm-0">
+                    <!-- Portfolio item 5-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal5">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/wohnbereich.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Wohnraum</div>
+                            <div class="portfolio-caption-subheading text-muted">Gemütliche Bodenbeläge</div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-4 col-sm-6">
+                    <!-- Portfolio item 6-->
+                    <div class="portfolio-item">
+                        <a class="portfolio-link" data-bs-toggle="modal" href="#portfolioModal6">
+                            <div class="portfolio-hover">
+                                <div class="portfolio-hover-content"><i class="fas fa-plus fa-3x"></i></div>
+                            </div>
+                            <img class="img-fluid" src="assets/img/portfolio/Cover/terrasse.jpg" alt="..." />
+                        </a>
+                        <div class="portfolio-caption">
+                            <div class="portfolio-caption-heading">Terrasse</div>
+                            <div class="portfolio-caption-subheading text-muted">Robuste Outdoor-Lösungen</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- About-->
+    <section class="page-section" id="about">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Über uns</h2>
+                <h3 class="section-subheading text-muted">
+                    "Viele Jahre Erfahrung setzen einen klaren Maßstab für Qualität und hochwertige Leistungen.<br>
+                    Wir sind ihr kompetenter Partner aus Volkenschwand und Umgebung.
+                    Unsere Bandbreite reicht von Fliesen, Naturstein, Platten und Mosaik bis hin zur Betonwerksteinverlegung.
+                    <br>
+                    Unser Ziel ist es, Sie mit unserer Arbeit zufrieden zu stellen, zu überraschen und zu begeistern.
+                    Mit unserer langjährigen Erfahrung sind wir in der Lage die Arbeit ganz nach Ihren Wünschen umzusetzen
+                    und individuell auf Sie zuzuschneiden.
+                    <br>
+                    <br>
+                    Wir setzen auf hochwertige Materialien, professionelle Ausführung, Ausgebildete Fachkräfte, Faire Preise und Zuverlässigkeit und Pünktlichkeit"<br>
+                    <br>
+                    ~ Marco Schröcker, Geschäftsführer
+                </h3>
+            </div>
+
+        </div>
+    </section>
+    <!-- Team-->
+
+    <!-- Clients-->
+    <div class="py-5">
+        <div class="container">
+            <div class="row align-items-center">
+                <!-- <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/microsoft.svg" alt="..." /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/google.svg" alt="..." /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/facebook.svg" alt="..." /></a>
+                    </div>
+                    <div class="col-md-3 col-sm-6 my-3">
+                        <a href="#!"><img class="img-fluid img-brand d-block mx-auto" src="assets/img/logos/ibm.svg" alt="..." /></a>
+                    </div> -->
+            </div>
+        </div>
+    </div>
+    <!-- Contact-->
+    <section class="page-section" id="contact">
+        <div class="container">
+            <div class="text-center">
+                <h2 class="section-heading text-uppercase">Kontaktieren Sie uns</h2>
+                <h3 class="section-subheading text-muted">Wir melden uns schnellstmöglich</h3>
+            </div>
+
+            <?php
+            require 'PHPMailer/PHPMailer/src/Exception.php';
+            require 'PHPMailer/PHPMailer/src/PHPMailer.php';
+            require 'PHPMailer/PHPMailer/src/SMTP.php';
+
+            use PHPMailer\PHPMailer\PHPMailer;
+            use PHPMailer\PHPMailer\SMTP;
+            use PHPMailer\PHPMailer\Exception;
+
+            function e($string)
+            {
+                return htmlspecialchars($string, ENT_QUOTES, "UTF-8");
+            }
+
+            $ok = true;
+            $errormsg = null;
+
+            if ($_SERVER["REQUEST_METHOD"] === "POST") {
+
+                if (isset($_POST['contact-form'])) {
+                    $name = e(trim($_POST["name"]));
+                    $email = e(trim($_POST["email"]));
+                    $phone = e(trim($_POST["phone"]));
+                    $message = e(trim($_POST["message"]));
+
+                    $message_length = strlen($message);
+                    $message_min = 10;
+                    $message_max = 255;
+                    $message_pattern = '/^[A-Za-z!?., ]*$/';
+
+                    var_dump($name, $email, $phone, $message);
+
+                    switch (true) {
+                            // * NAME * //
+                        case empty($name):
+                            $errormsg = "Name ist nicht gesetzt";
+                            $ok = false;
+                            break;
+
+                        case !ctype_alpha($name):
+                            $errormsg = "Es sind nur Buchstaben erlaubt";
+                            $ok = false;
+                            break;
+
+                            // * EMAIL * //
+                        case empty($email):
+                            $errormsg = "E-Mail ist nicht ausgefüllt";
+                            $ok = false;
+                            break;
+
+                        case !filter_input(INPUT_POST, "email", FILTER_VALIDATE_EMAIL):
+                            $errormsg = "Email hat kein richtiges Format";
+                            $ok = false;
+                            break;
+
+                            // * PHONE * //
+                        case empty($phone):
+                            $errormsg = "Telefonnummer ist nicht gesetzt";
+                            $ok = false;
+                            break;
+
+                            // TODO giggsey/libphonenumber-for-php
+                        case !filter_var($phone, FILTER_VALIDATE_INT):
+                            $errormsg = "Das ist keine Telefonnummer";
+                            $ok = false;
+                            break;
+
+                            // * MESSAGE * //
+                        case empty($message):
+                            $errormsg = "Nachricht ist nicht gesetzt";
+                            $ok = false;
+                            break;
+
+                        case ($message_length < $message_min):
+                            $errormsg = "Die Nachricht ist zu kurz. Es sind minimal $message_min Zeichen erlaubt";
+                            $ok = false;
+                            break;
+
+                        case ($message_length > $message_max):
+                            $errormsg = "Die Nachricht ist zu lang. Es sind maximal $message_max Zeichen erlaubt";
+                            $ok = false;
+                            break;
+
+                        case !preg_match($message_pattern, $message):
+                            $errormsg = "Die Nachricht enthält Sonderzeichen. Diese sind nicht erlaubt";
+                            $ok = false;
+                            break;
+
+                        default:
+                            $ok = true;
+                            $errormsg = null;
+                            break;
+                    }
+
+                    if ($ok) {
+                        // $mail = new PHPMailer(true);
+
+                        // try {
+                        //     $mail->isSMTP();
+                        //     $mail->Host = "";
+                        //     $mail->SMTPAuth = true;
+                        //     $mail->Username = "";
+                        //     $mail->Password = "";
+                        //     $mail->SMTPSecure = PHPMailer::ENCRYPTION_STARTTLS;
+                        //     $mail->Port = 587;
+
+                        //     $mail->ClearReplyTos();
+                        //     $mail->addReplyTo("$email");
+                        //     $mail->setFrom('', 'Neue Anfrage schroecker.de');
+                        //     $mail->addAddress('');
+
+                        //     $mail->isHTML(true);
+                        //     $mail->Subject = "Neue Anfrage von $name";
+                        //     $mail->Body = nl2br($body);
+                        //     $mail->AltBody = $body;
+
+                        //     $mail->send();
+
+                        $errormsg = "Formular abgesendet. Vielen Dank!";
+                        $name = null;
+                        $email = null;
+                        $phone = null;
+                        $message = null;
+                        // } catch (Exception $e) {
+                        //     echo "Mailer error: " . $e->getMessage();
+                        // }
+                    }
+                }
+            }
+            ?>
+
+            <?php require_once "./form.php"; ?>
+
+            <div class="text-center">
+                <br>
+                <br>
+                <br>
+
+                <h3 class="section-heading">Oder melden Sie sich auf direktem Weg</h3>
+                <br>
+                <h5 class="section-heading">Marco Schröcker</h5>
+                <h5 class="section-heading">Mobil: <a href="tel:+49162-6853772">0162-6853772</a></h5>
+                <h5 class="section-heading"><a href="mailto:info@fliesenverlegung-schroecker.de">info@fliesenverlegung-schroecker.de</a></h5>
+                <h5 class="section-heading">Lohholz 8 - 84106 Volkenschwand</h5>
+            </div>
+        </div>
+    </section>
+    <!-- Footer-->
+    <footer class="footer py-4">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-4 text-lg-start">Copyright &copy; Marco Schröcker Fliesenleger 2024</div>
+                <div class="col-lg-4 my-3 my-lg-0">
+                    <!-- <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-twitter"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-facebook-f"></i></a>
+                        <a class="btn btn-dark btn-social mx-2" href="#!"><i class="fab fa-linkedin-in"></i></a> -->
+                </div>
+                <div class="col-lg-4 text-lg-end">
+                    <a class="link-dark text-decoration-none me-3" href="#!">Impressum</a>
+                    <!-- <a class="link-dark text-decoration-none" href="#!">Terms of Use</a> -->
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- Portfolio Modals-->
+    <!-- Portfolio item 1 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal1" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Badezimmer</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="1">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/2.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/3.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/4.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/5.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/6.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/7.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/8.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/9.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/10.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/11.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/12.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/13.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/14.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/15.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/16.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/17.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/18.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/19.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/20.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/21.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/22.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Badezimmer/23.jpg" alt="..." />
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio item 2 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Flur</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="2">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Flur/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Flur/2.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Flur/3.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Flur/4.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Flur/5.jpg" alt="..." />
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+
+
+
+    <!-- Portfolio item 3 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal3" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Balkon</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="3">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Balkon/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Balkon/2.jpg" alt="..." />
+
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio item 4 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal4" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Treppe</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="4">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Treppe/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Treppe/2.jpg" alt="..." />
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio item 5 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal5" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Wohnraum</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="5">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Wohnbereich/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Wohnbereich/2.jpg" alt="..." />
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Portfolio item 6 modal popup-->
+    <div class="portfolio-modal modal fade" id="portfolioModal6" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="close-modal" data-bs-dismiss="modal"><img src="assets/img/close-icon.svg" alt="Close modal" /></div>
+                <div class="container">
+                    <div class="row justify-content-center">
+                        <div class="col-lg-8">
+                            <div class="modal-body">
+                                <!-- Project details-->
+                                <h2 class="text-uppercase">Terrasse</h2>
+                                <!-- <p class="item-intro text-muted">Platzhalter Text</p> -->
+                                <div class="slider" data-slider-id="6">
+                                    <div class="slider-track">
+                                        <img class="slider-image" src="assets/img/portfolio/Terasse/1.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Terasse/2.jpg" alt="..." />
+                                        <img class="slider-image" src="assets/img/portfolio/Terasse/3.jpg" alt="..." />
+                                    </div>
+                                    <!-- Left Arrow -->
+                                    <button class="arrow-left" id="prevBtn" onclick="changeImage(-1)">
+                                        <i class="fas fa-chevron-left"></i>
+                                    </button>
+                                    <!-- Right Arrow -->
+                                    <button class="arrow-right" id="nextBtn" onclick="changeImage(1)">
+                                        <i class="fas fa-chevron-right"></i>
+                                    </button>
+                                </div>
+
+                                <button class="btn btn-primary btn-xl text-uppercase" data-bs-dismiss="modal" type="button">
+                                    <i class="fas fa-times me-1"></i>
+                                    Projekt schließen
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- Bootstrap core JS-->
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"></script>
+    <!-- Core theme JS-->
+    <script src="./js/scripts.js"></script>
+</body>
+
+</html>
